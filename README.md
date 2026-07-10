@@ -140,11 +140,17 @@ import matplotlib.pyplot as plt
 
 Example:
 
-"C:\Users\Student\Pictures\Screenshots\Screenshot 2026-07-09 164814.png"
+### Histogram
 
-"C:\Users\Student\Pictures\Screenshots\Screenshot 2026-07-09 164911.png"
+![Histogram](images/histogram.png.png)
 
-"C:\Users\Student\Pictures\Screenshots\Screenshot 2026-07-09 164920.png"
+### Box Plot
+
+![Box Plot](images/boxplot.png.png)
+
+### Correlation Heatmap
+
+![Heatmap](images/heatmap.png.png)
 
 ---
 
